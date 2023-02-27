@@ -1,21 +1,9 @@
-# SLDNS
-SSH OVER DNS create By NevermoreSSH
 
-```html
-https://github.com/NevermoreSSH/hopp
-```
-# INFO
-* INI SCRIPT BERSIFAT GRATIS DAN INI SCRIPT DI LARANG DI JUAL PERBELIKAN
-* Ini Script bisa di Mod/Modifikasi/edit dengan bebas
-
-# INFO Khusus SlowDNS
+# INFO SlowDNS
 • SSH Over DNS (SlowDNS)
-* untuk kecepatan nya di batasi
-* speed download 4 Mbps (Max Speed)
-* speed upload 100+ Mbps (Max Speed)
-* Support semua port ssh
-
-# SSH Only (Support All SSH Ports)
+* Speed download 4 Mbps (Max Speed)
+* Speed upload 100+ Mbps (Max Speed)
+* SSH Only (Support All SSH Ports)
 * Service Port DNS
 
 # SERVER PORT:
