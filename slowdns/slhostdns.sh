@@ -69,3 +69,4 @@ echo "Host : $SUB_DOMAIN"
 echo $SUB_DOMAIN > /root/subdomain
 echo "Host NS : $NS_DOMAIN"
 echo $NS_DOMAIN > /root/nsdomain
+restart
